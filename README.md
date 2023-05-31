@@ -35,9 +35,9 @@ Mitä tarvitset?
 
 8 Kirjaudu sisään reitittimeesi.
 
-9 Mene Port Fowarding -kohtaan reitittimesi hallintapaneelissa. Huom. jokainen reititin on erilainen. Lue tarvittaessa oman reittimesi ohjekirja jos kohtaat ongelmia.
+9 Mene Port Fowarding -kohtaan reitittimesi hallintapaneelissa. Se kohta löytyy usen Firewall -asetuksista. Huom. jokainen reititin on erilainen. Lue tarvittaessa oman reittimesi ohjekirja jos kohtaat ongelmia.
 
-10 Luo uusi porttiohjaus. Syötä porttinumeroksi portti 7777. Valitse protokollaksi kaikki/molemmat (all). Syötä oma paikallinen paikallisen IPv4-osoite kohtaan jossa määritellään paikallisen laitteen IP-osoite.
+10 Luo uusi porttiohjaus. Syötä porttinumeroksi portti 7777. Valitse protokollaksi kaikki/molemmat (all tai udp+tcp). Syötä oma paikallinen IPv4-osoitteesi paikallisen IPv4-osoitteen määrittelyn kohtaan, jossa määritellään paikallisen laitteen IP-osoite.
 
 11 Tallenna muutokset ja kirjaudu ulos reitittimesi hallintapaneelista.
 
