@@ -94,6 +94,7 @@ ja paina ENTER-näppäintä.
 - Valitse "Salli yhteys"
 - Valitse "Mitä täämä sääntö koskee?" -kohdasta kaikki mahdolliset vaihtoehdot
 - Paina "Seruraava >"
+- Anna säännölle haluamasi nimi
 - Paina "Valmis"
 
 25 Valitse auenneen ikkunan vasemmasta laidasta Lähtevän liikenteen säännöt.
@@ -106,7 +107,7 @@ ja paina ENTER-näppäintä.
 - Paina "Seuraava >"
 - Valitse kohta "Ohjelman polku"
 - Paina kohdan "Ohjelman polku:" painiketta "Selaa..."
-- Paina uuden ilmestyneen ikkunan ylälaidassa olevaa pitkää palkkia jossa näkyy tämänhetkinen tiedostopolku
+- Paina uuden ilmestyneen ikkunan ylälaidassa olevaa pitkän palkin oikeassa reunassa olevaa tyhjää tilaa. Palkin vasemmalla näkyy tämänhetkinen tiedostopolku
 - Oikeaklikkaa sinisellä maalautunutta tekstiä
 - Valitse "Liitä" -kohta ja paina ENTER-näppäintä
 - Napauta "Ravenfield Multiplayer.exe" -kohtaa
@@ -115,6 +116,7 @@ ja paina ENTER-näppäintä.
 - Valitse "Salli yhteys"
 - Valitse "Mitä täämä sääntö koskee?" -kohdasta kaikki mahdolliset vaihtoehdot
 - Paina "Seruraava >"
+- Anna säännölle haluamasi nimi
 - Paina "Valmis"
 
 28 Käynnistä tietokoneesi uudelleen.
