@@ -128,6 +128,6 @@ ja paina ENTER-näppäintä.
 ```
 . Tämän jälkeen napauta ehdotettua peliä ja sitten Pelaa Nyt -painiketta.
 
-30 Paina pitkään "Play" -painiketta jonka näet "Ravenfield Multiplayer Mod" -pelin kotinäkymässä. Paina ESC-näppäintä. Aseta haluamasi valinnat palvelimen luontivalikoihin ja paina "Create" -painiketta.
+30 Paina pitkään "Multiplayer" -painiketta jonka näet "Ravenfield Multiplayer Mod" -pelin kotinäkymässä. Paina ESC-näppäintä. Aseta haluamasi valinnat palvelimen luontivalikoihin ja paina "Create" -painiketta.
 
 Onneksi olkoon! Olet luonut "Ravenfield Multiplayer Mod" -palvelimen.
