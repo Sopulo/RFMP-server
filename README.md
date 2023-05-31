@@ -27,7 +27,7 @@ Mitä tarvitset?
 ```
 äsken auenneeseen komentokehoitteeseen ja paina ENTER-näppäintä.
 
-5 Etsi komentokehoitteeseen ilmestyneestä tekstistä oma paikallinen IPv4-osoitteesi kohadsta IPv4 Address. Se alkaa usein seuraavilla numeroilla: 192.168 ...
+5 Etsi komentokehoitteeseen ilmestyneestä tekstistä oma paikallinen (jos tietokoneesi on yhdistetty lähiverkkoon langallisesti, löytyy IPv4-osoite otstikon "Ethernet adapter" alta) IPv4-osoitteesi kohadsta IPv4 Address. Se alkaa usein seuraavilla numeroilla: 192.168 ...
 
 6 Omasta IPv4-osoitteestasi alempana on Default Gateway -niminen kohta. Sen vieressä oikealla puolella on useimmiten paikallisen verkkosi reitittimesi IP-osoite. Se saattaa olla esim. 192.168.1.1 tai 192.168.0.1 .
 
