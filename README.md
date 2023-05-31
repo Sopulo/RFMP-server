@@ -1,4 +1,14 @@
 
+# Miten luoda Ravenfield Multiplayer -palvelin
+
+Tämän ohjeen avulla voit luoda toimivan Ravenfield Multiplayer -palvelimen käyttäen Windows tietokonetta.
+
+Mitä tarvitset?
+
+- Tietokone: Windows (10 tai 11)
+- Ravenfield Multiplayer Mod (hankittu Steamista)
+- Lähiverkon johon tietokone on liitetty
+- Käyttäjätunnukset lähiverkon palomuurihallintaan ja tietokoneeseen
 ## Ohjeet, vaihe vaiheelta:
 
 1 Kirjaudu sisään tietokoneellesi.
